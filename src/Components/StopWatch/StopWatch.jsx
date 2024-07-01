@@ -47,6 +47,7 @@ function StopWatch() {
         handlePauseResume={handlePauseResume}
         handleReset={handleReset}
       />
+      {console.log("shobhit")}
     </div>
   );
 }
